@@ -1,6 +1,6 @@
-# MONTE CINEMA
+# CINEMA
 
- LIVE SITE URL: [MONTE CINEMA](https://monte-cinema-rails-production.up.railway.app/)
+ LIVE SITE URL: [CINEMA](https://monte-cinema-rails-production.up.railway.app/)
 
 ## Overview
 
